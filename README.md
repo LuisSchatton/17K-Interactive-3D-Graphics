@@ -6,7 +6,7 @@ These 3D interactions made using **React-Three-Fiber** were made for the [17K Po
 
 The code contains everything I made during my time at 17K, the live version viewable online contains some further changes and impovements.
 
-Some screenshots of the interactions during their development process:
+## Some screenshots of the interactions during their development process:
 
 ![Screenshot (183)](https://github.com/user-attachments/assets/fe2287e6-9d73-4ff5-8301-09db9d1fbaa4)
 
